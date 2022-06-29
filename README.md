@@ -6,6 +6,12 @@ Todo lists, Daily backgrounds, App Speed dials
 
 ## Installation
 
+Download here:
+
+https://chrome.google.com/webstore/detail/mineral-new-tab/bdekkkolgkejkinpjmmbiofdhjkkbaaa
+
+Or
+
 ```bash
   Download zip, extract, then click manage extensions and 
   enable developer mode.
